@@ -1,0 +1,8 @@
+{
+  "name": "CIVIO - Votre Mairie en un clic",
+  "description": "Une application citoyenne moderne pour s'informer, agir, planifier et participer à la vie de votre commune.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
